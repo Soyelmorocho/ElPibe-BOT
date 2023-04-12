@@ -1,0 +1,19 @@
+{
+  "name": "elpibe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-player": "^6.1.1",
+    "discord.js": "^14.9.0",
+    "ffmpeg-static": "^5.1.0",
+    "glob": "^8.0.3"
+  }
+}
